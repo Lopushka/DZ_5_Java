@@ -103,6 +103,8 @@ public class EX_1 {
                 System.out.println("Exit");
                 break;
 
+            
         }
+        iScanner.close();
     }
 }
